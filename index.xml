@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://d-aurora.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Nov 2017 16:10:14 +0800</lastBuildDate>
     
-	<atom:link href="http://d-aurora.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Me</title>
-      <link>http://d-aurora.github.io/me/</link>
+      <link>http://example.org/me/</link>
       <pubDate>Sun, 26 Nov 2017 16:10:14 +0800</pubDate>
       
-      <guid>http://d-aurora.github.io/me/</guid>
+      <guid>http://example.org/me/</guid>
       <description> dddTest  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://d-aurora.github.io/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Sun, 26 Nov 2017 15:53:22 +0800</pubDate>
       
-      <guid>http://d-aurora.github.io/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description> aa  bbb ccc   </description>
     </item>
     
