@@ -1,32 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Aurora.Duang</title>
+    <link>https://d-aurora.github.io/</link>
+    <description>Recent content on Aurora.Duang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2017 16:10:14 +0800</lastBuildDate>
+    <language>fr-FR</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Tue, 01 May 2018 15:53:22 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://d-aurora.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>https://d-aurora.github.io/innodb-%E6%95%B4%E7%90%86/</link>
+      <pubDate>Tue, 01 May 2018 15:53:22 +0800</pubDate>
+      
+      <guid>https://d-aurora.github.io/innodb-%E6%95%B4%E7%90%86/</guid>
+      <description>FR  </description>
+    </item>
+    
+    <item>
       <title>Me</title>
-      <link>http://example.org/me/</link>
+      <link>https://d-aurora.github.io/me/</link>
       <pubDate>Sun, 26 Nov 2017 16:10:14 +0800</pubDate>
       
-      <guid>http://example.org/me/</guid>
+      <guid>https://d-aurora.github.io/me/</guid>
       <description> dddTest  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://d-aurora.github.io/about/</link>
       <pubDate>Sun, 26 Nov 2017 15:53:22 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://d-aurora.github.io/about/</guid>
       <description> aa  bbb ccc   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://d-aurora.github.io/el/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-aurora.github.io/el/</guid>
+      <description> 思维复利 边界 me  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://d-aurora.github.io/%E6%80%9D%E7%BB%B4%E5%A4%8D%E5%88%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-aurora.github.io/%E6%80%9D%E7%BB%B4%E5%A4%8D%E5%88%A9/</guid>
+      <description> 思维复利 1. 问题的提出 a) 定义：我们的问题是什么，目的是什么 b) 核心：核心点有哪些 c) 背景：谁提出的问题，在什么背景下提出来的问题 d) 风险：我如何确定我准确的理解了问题  2. 方案的思考 a) 信息：有哪些信息是已知的、哪些是未知的，哪些是通过努力可以变成已知的。 b) 假设：我们需要哪些假设。 c) 推演：根据什么样的逻辑可以推导出结论，逻辑中的关键变量是什么。 d) 风险：信息的真实性如何保证，假设合理与否，逻辑是必然推演还是概率推演？  3. 问题的落地 a) 执行：在时间轴上画出必要的执行方案。 b) 追踪：如何对方案中的不确定性做出追踪，特别是关键性变量 c) 关键节点：明确关键节点，结果的可预期性。 d) 已知风险的应对：对于我们不想出现的情景的预案。 e) 未知风险的应对：如果出现未知因素，什么样的事件会导致方案退出。  4. 结果的反思 a) 评估：如何评价结果，关键人物的反馈。 b) 流程：再哪些环节上，和预期的时间轴差异比较大。 c) 可重复性：哪些经验是可以复用的，应当被记住。 d) 优化：哪些环节可以被优化，在前期没有找到这个更优的方案的原因是什么。  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://d-aurora.github.io/%E6%89%8B%E8%AE%B0-20180503/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-aurora.github.io/%E6%89%8B%E8%AE%B0-20180503/</guid>
+      <description>手记 - 2018-05-03
+思念在清晨最盛，可能是清新的一天想着找个人分享吧， 蓝天啊， 白云啊， 阳光啊，红花碧树&amp;hellip;&amp;hellip;当然，还有内心这一团强烈的幸福感&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>边界</title>
+      <link>https://d-aurora.github.io/%E8%BE%B9%E7%95%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-aurora.github.io/%E8%BE%B9%E7%95%8C/</guid>
+      <description>知识边界 学习能力建设 工程能力建设 沟通能力建设 语言能力建设  执行方案 学习能力建设： 知识技能的定期输入，阶段性成果的输出；良好的习惯，平静后才能思考， 思考后才能平静；  工程能力建设 结构化思维建设 随着工作经验的积累， 资本家是不会让你集中精力在同一个时间段只处理一件事情， 针对这一点，结构化的思维就显得尤为重要，尽可能小的拆分模块， 就算下一刻的自己与上一刻的自己， 也需要交互， 但凡交互都有时间损耗， 只有合理拆分， 才能让这种交互成本降到最低。   1. 在下手之前， 做好规划， 同一个系统内， 应当尽可能的一致； 2. 做好任务重要程度及紧急程度的评估， 尽可能让自己不被打断； 3. 必需要找到做这件事情的意义， 给自己的内心一个正向的输入， 他才会心甘情愿被欲望驱使； 4. 需要思考当前所处的位置，手头上所做事情能产生的位移， 然后计算出未来自己的位置， 如果不能称心如意， 此事当再议；  能力建设  基础学习：算法导论， 编译原理， 组合数学， 机器学习 目前有想法， 但是没有规划；
+Java 语言基础： java虚拟机的理解， 并发编程的学习， effectiveJava， 设计模式， 重构；
+Spring 相关服务层面知识： Spring源码， Spring核心技术内幕；
+关系数据库： 高性能mysql， Innodb 存储引擎，数据库系统概论；
+NoSql 数据库: redis; mango；
+分布式一致性: zookeeper 学习与应用, paxos 算法; 主备同步一致;</description>
     </item>
     
   </channel>
